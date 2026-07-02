@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://peoria-arizona.appdevelopmentagency.app/sitemap.xml
